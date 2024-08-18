@@ -48,3 +48,4 @@ frontend/.env.production.local
 
 # Ignore the local Firebase cache (if you're using Firebase)
 .firebase/
+.vercel

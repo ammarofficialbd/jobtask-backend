@@ -13,7 +13,7 @@ app.use(helmet());
 
 // Configure CORS
 const corsOptions = {
-    origin: 'http://localhost:5173', // Allow only the frontend origin
+    origin: ['http://localhost:5173', 'https://products-bd.netlify.app/'], // Allow only the frontend origin
     credentials: true, // Allow credentials (cookies, authorization headers, etc.)
 };
 

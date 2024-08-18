@@ -4,7 +4,7 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXiM35mxdzx9VbLvUdeAjh9Vlz8hhKn8Gd4XAR9TYLpO8QGidPiJC2TgGE9FOi5-hJQgetL67TmQFS5CHZrhuqwWuYpPtrBId0JRZA3krxz3MULGh1Jmhxn9oOUviZx-72xWwyBqzQ_nPEQH6zW34hKx4lqg6N6H-vDaXWxqQKLcWv4GCCHZVUUZ1uW2s/s1024/DALL%C2%B7E%202024-08-15%2019.34.41%20-%20A%20detailed%20image%20of%20a%20modern%20wireless%20headphone%20with%20a%20sleek%20and%20stylish%20design.%20The%20headphones%20have%20an%20over-ear%20style%20with%20cushioned%20ear%20cups%20in%20a%20sm.webp",
       "description": "High-quality wireless headphones with noise cancellation and long battery life.",
       "price": 99.99,
-      "brand": "Oraimo",
+      "brand": "Havit",
       "category": "Electronics",
       "ratings": 4.5
     },
@@ -50,7 +50,7 @@
       "description": "Eco-friendly yoga mat with non-slip surface and comfortable padding.",
       "price": 30.00,
       "category": "Fitness",
-      "brand": "",
+      "brand": "ZenSpace",
       "ratings": 4.3
     },
     {
@@ -58,7 +58,7 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigZ84V1JNp4HawflbvGg2dStBmP4HOwVsiTk7GaCVXgNjejv55ahO7iw_mlXhOtmR_zXwSUHRD1rnE-ilLVnRtOY-3HrFb17V81gOG7DMgWuKbNiHSyEdYp__r_ylg_qS7nHq2NlMjIhMyQf_kh0DXiIbT3tBV9FMU3CfcGO2lG2A1XJb9LrSMS2P1aPw/s1024/DALL%C2%B7E%202024-08-15%2019.26.06%20-%20A%20detailed%20image%20of%20a%20modern%20laptop%20stand%20with%20a%20sleek,%20ergonomic%20design.%20The%20stand%20is%20made%20of%20aluminum%20with%20a%20matte%20silver%20finish,%20featuring%20a%20minima.webp",
       "description": "Adjustable laptop stand with ergonomic design for better posture.",
       "price": 40.00,
-      "brand": "Local",
+      "brand": "LogiTech",
       "category": "Office Supplies",
       "ratings": 4.4
     },
@@ -96,14 +96,14 @@
       "price": 299.99,
       "category": "Electronics",
       "ratings": 4.7,
-      "brand": "VisionTech"
+      "brand": "Vision"
   },
   {
     "name": "Wireless Gaming Mouse",
     "image": "https://example.com/path/to/gaming-mouse-image.webp",
     "description": "Ergonomic wireless gaming mouse with customizable RGB lighting and 16000 DPI.",
     "price": 85.99,
-    "brand": "GamerGear",
+    "brand": "LogiTech",
     "category": "Electronics",
     "ratings": 4.9
 },
@@ -121,8 +121,8 @@
   "image": "https://example.com/path/to/green-tea-image.webp",
   "description": "Premium organic green tea with rich antioxidants and calming properties.",
   "price": 15.99,
-  "brand": "NatureBrew",
-  "category": "Groceries",
+  "brand": "Mirzapur",
+  "category": "Home & Kitchen",
   "ratings": 4.4
  
 },
@@ -140,7 +140,7 @@
   "image": "https://example.com/path/to/electric-toothbrush-image.webp",
   "description": "Advanced electric toothbrush with multiple brushing modes and pressure sensor.",
   "price": 129.99,
-  "brand": "CleanSmile",
+  "brand": "Vision",
   "category": "Electronics",
   "ratings": 4.8
 },
@@ -149,7 +149,7 @@
   "image": "https://example.com/path/to/silk-pillowcase-image.webp",
   "description": "Luxurious silk pillowcase to reduce skin friction and hair breakage during sleep.",
   "price": 49.99,
-  "category": "Home Textiles",
+  "category": "Home & Kitchen",
   "ratings": 4.5,
   "brand": "SilkySmooth"
 },
@@ -168,7 +168,7 @@
   "description": "Professional-grade hair dryer with ionic technology for faster drying and less frizz.",
   "price": 99.99,
   "brand": "StylerPro",
-  "category": "Beauty Tools",
+  "category": "Tools",
   "ratings": 4.7
 },
 {
@@ -187,8 +187,206 @@
   "description": "Plant-based protein powder with complete amino acids profile, gluten-free and no added sugar.",
   "price": 45.00,
   "brand": "VegGainz",
-  "category": "Health Supplements",
+  "category": "Health",
   "ratings": 4.3
+},
+{
+  "name": "Organic Cotton T-Shirt",
+  "image": "https://example.com/path/to/t-shirt-image.webp",
+  "description": "Soft and breathable organic cotton t-shirt, perfect for casual wear.",
+  "price": 20.00,
+  "brand": "NatureFit",
+  "category": "Clothing",
+  "ratings": 4.5
+},
+{
+  "name": "Recycled Polyester Jacket",
+  "image": "https://example.com/path/to/jacket-image.webp",
+  "description": "Lightweight jacket made from recycled polyester, ideal for outdoor activities.",
+  "price": 60.00,
+  "brand": "NatureFit",
+  "category": "Clothing",
+  "ratings": 4.7
+},
+{
+  "name": "Bamboo Fiber Socks",
+  "image": "https://example.com/path/to/socks-image.webp",
+  "description": "Comfortable and eco-friendly socks made from bamboo fibers, naturally anti-bacterial.",
+  "price": 12.00,
+  "brand": "NatureFit",
+  "category": "Clothing",
+  "ratings": 4.6
+},
+{
+  "name": "Hemp Blend Hoodie",
+  "image": "https://example.com/path/to/hoodie-image.webp",
+  "description": "Stylish hoodie made from a hemp and cotton blend, durable and sustainable.",
+  "price": 50.00,
+  "brand": "NatureFit",
+  "category": "Clothing",
+  "ratings": 4.8
+},
+{
+  "name": "Organic Linen Pants",
+  "image": "https://example.com/path/to/pants-image.webp",
+  "description": "Breathable and comfortable pants made from organic linen, perfect for summer.",
+  "price": 45.00,
+  "brand": "ActiveEco",
+  "category": "Clothing",
+  "ratings": 4.4
+},
+{
+  "name": "Sustainable Denim Jeans",
+  "image": "https://example.com/path/to/jeans-image.webp",
+  "description": "Classic denim jeans made from sustainably sourced cotton, designed to last.",
+  "price": 55.00,
+  "brand": "ActiveEco",
+  "category": "Clothing",
+  "ratings": 4.7
+},
+{
+  "name": "Organic Wool Sweater",
+  "image": "https://example.com/path/to/sweater-image.webp",
+  "description": "Warm and cozy sweater made from 100% organic wool, perfect for winter.",
+  "price": 70.00,
+  "brand": "ActiveEco",
+  "category": "Clothing",
+  "ratings": 4.9
+},
+{
+  "name": "Eco-Friendly Running Shorts",
+  "image": "https://example.com/path/to/shorts-image.webp",
+  "description": "Lightweight and breathable running shorts made from recycled materials.",
+  "price": 30.00,
+  "brand": "NatureFit",
+  "category": "Clothing",
+  "ratings": 4.5
+},
+{
+  "name": "Organic Cotton Underwear",
+  "image": "https://example.com/path/to/underwear-image.webp",
+  "description": "Comfortable and soft underwear made from organic cotton, gentle on the skin.",
+  "price": 18.00,
+  "brand": "ActiveEco",
+  "category": "Clothing",
+  "ratings": 4.6
+},
+{
+  "name": "Recycled Polyester Sports Bra",
+  "image": "https://example.com/path/to/sports-bra-image.webp",
+  "description": "Supportive and comfortable sports bra made from recycled polyester.",
+  "price": 28.00,
+  "brand": "ActiveEco",
+  "category": "Clothing",
+  "ratings": 4.7
+},
+{
+  "name": "Cordless Drill",
+  "image": "https://example.com/path/to/cordless-drill-image.webp",
+  "description": "Powerful 20V cordless drill with variable speed control.",
+  "price": 85.00,
+  "brand": "ToolMaster",
+  "category": "Tools",
+  "ratings": 4.8
+},
+{
+  "name": "Circular Saw",
+  "image": "https://example.com/path/to/circular-saw-image.webp",
+  "description": "High-precision circular saw with adjustable cutting depth.",
+  "price": 120.00,
+  "brand": "ProCut",
+  "category": "Tools",
+  "ratings": 4.6
+},
+{
+  "name": "Socket Wrench Set",
+  "image": "https://example.com/path/to/socket-wrench-set-image.webp",
+  "description": "Comprehensive 40-piece socket wrench set for all types of bolts.",
+  "price": 45.00,
+  "brand": "WrenchPro",
+  "category": "Tools",
+  "ratings": 4.7
+},
+{
+  "name": "Laser Level",
+  "image": "https://example.com/path/to/laser-level-image.webp",
+  "description": "Self-leveling laser level with cross-line mode.",
+  "price": 65.00,
+  "brand": "ToolMaster",
+  "category": "Tools",
+  "ratings": 4.9
+},
+{
+  "name": "Angle Grinder",
+  "image": "https://example.com/path/to/angle-grinder-image.webp",
+  "description": "Durable angle grinder with 7,500 RPM motor.",
+  "price": 55.00,
+  "brand": "ToolMaster",
+  "category": "Tools",
+  "ratings": 4.5
+},
+{
+  "name": "Hammer Drill",
+  "image": "https://example.com/path/to/hammer-drill-image.webp",
+  "description": "Heavy-duty hammer drill with 3-mode operation.",
+  "price": 95.00,
+  "brand": "ToolMaster",
+  "category": "Tools",
+  "ratings": 4.6
+},
+{
+  "name": "Adjustable Wrench",
+  "image": "https://example.com/path/to/adjustable-wrench-image.webp",
+  "description": "10-inch adjustable wrench with non-slip handle.",
+  "price": 20.00,
+  "brand": "ToolMaster",
+  "category": "Tools",
+  "ratings": 4.4
+},
+{
+  "name": "Screwdriver Set",
+  "image": "https://example.com/path/to/screwdriver-set-image.webp",
+  "description": "15-piece magnetic screwdriver set with ergonomic handles.",
+  "price": 30.00,
+  "brand": "ProCut",
+  "category": "Tools",
+  "ratings": 4.8
+},
+{
+  "name": "Tape Measure",
+  "image": "https://example.com/path/to/tape-measure-image.webp",
+  "description": "25-foot tape measure with auto-lock and retract feature.",
+  "price": 12.00,
+  "brand": "MeasureRight",
+  "category": "Tools",
+  "ratings": 4.7
+},
+{
+  "name": "Jigsaw",
+  "image": "https://example.com/path/to/jigsaw-image.webp",
+  "description": "Versatile jigsaw with variable speed and orbital action.",
+  "price": 75.00,
+  "brand": "ProCut",
+  "category": "Tools",
+  "ratings": 4.5
+},
+{
+  "name": "Work Light",
+  "image": "https://example.com/path/to/work-light-image.webp",
+  "description": "Bright LED work light with adjustable stand and rechargeable battery.",
+  "price": 40.00,
+  "brand": "ProCut",
+  "category": "Tools",
+  "ratings": 4.9
+},
+{
+  "name": "Claw Hammer",
+  "image": "https://example.com/path/to/claw-hammer-image.webp",
+  "description": "Durable claw hammer with shock-absorbing handle.",
+  "price": 15.00,
+  "brand": "ToolMaster",
+  "category": "Tools",
+  "ratings": 4.6
 }
 
 ]
