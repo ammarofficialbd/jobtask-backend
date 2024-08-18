@@ -1,4 +1,4 @@
-import mongoose  from "mongoose";
+import mongoose from "mongoose";
 
 const productSchema = mongoose.Schema({
     name: {
@@ -9,31 +9,34 @@ const productSchema = mongoose.Schema({
         type: [String],
         required: true
     },
-    description:{
+    description: {
         type: String,
         required: true
     },
-    price:{
+    price: {
         type: Number,
         required: true
     },
-    category:{
+    category: {
         type: String,
         required: true
     },
-    ratings:{
+    brand: { // Added brand field
+        type: String,
+        required: true
+    },
+    ratings: {
         type: Number,
         required: true
     },
-    cratedAt:{
+    createdAt: { // Corrected the typo from "cratedAt" to "createdAt"
         type: Date,
         default: Date.now
     }
-    
 },
 {
     timestamps: true
-})
+});
 
 const Product = mongoose.model('Product', productSchema);
 

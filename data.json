@@ -1,0 +1,195 @@
+[
+    {
+      "name": "Wireless Headphones",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXiM35mxdzx9VbLvUdeAjh9Vlz8hhKn8Gd4XAR9TYLpO8QGidPiJC2TgGE9FOi5-hJQgetL67TmQFS5CHZrhuqwWuYpPtrBId0JRZA3krxz3MULGh1Jmhxn9oOUviZx-72xWwyBqzQ_nPEQH6zW34hKx4lqg6N6H-vDaXWxqQKLcWv4GCCHZVUUZ1uW2s/s1024/DALL%C2%B7E%202024-08-15%2019.34.41%20-%20A%20detailed%20image%20of%20a%20modern%20wireless%20headphone%20with%20a%20sleek%20and%20stylish%20design.%20The%20headphones%20have%20an%20over-ear%20style%20with%20cushioned%20ear%20cups%20in%20a%20sm.webp",
+      "description": "High-quality wireless headphones with noise cancellation and long battery life.",
+      "price": 99.99,
+      "brand": "Oraimo",
+      "category": "Electronics",
+      "ratings": 4.5
+    },
+    {
+      "name": "Smartphone Case",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAjtT_x04dnVjw-jMT8FWdpWkrX54li8a5QMAw9gf9TozmdotCrFFKIN5FUHy9KJuhOT6p8XPOcsRaViY0K88WYVcf6aL0k2NhiEpBbHeM6zFugOI122Dkb-N3GTzHK61IByEgclfNTn04rU6PuFpN8YWQZc6z-Y6S4RnM5YRC3PKIgDIDY2EUtme27U0/s1024/DALL%C2%B7E%202024-08-15%2019.37.31%20-%20A%20detailed%20image%20of%20a%20modern%20smartphone%20case%20with%20a%20sleek%20and%20protective%20design.%20The%20case%20is%20made%20of%20durable,%20shock-absorbent%20material%20with%20a%20smooth%20m.webp",
+      "description": "Durable and stylish smartphone case with shock-absorbing features.",
+      "price": 19.99,
+      "brand": "Local",
+      "category": "Accessories",
+      "ratings": 4.2
+    },
+    {
+      "name": "Running Shoes",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH9Q8TYpDc8eLIceJkVQH-7WiMQdZ7Fwos3ExZniJr_sq8fk1eOtFUA1a0wgufiATnkf1OO_2zJjMh1QQtxf0hpDuG9qhgGuz7mKCfK9Ug2jRLwz8u8MN76VHF-husIJ-qar_0K-drnN2lUUuP4ekswzSwKKYSOf05oYyBOveqSNRU_un9ufIuyxZPywg/s1024/DALL%C2%B7E%202024-08-15%2019.34.30%20-%20A%20high-quality%20image%20of%20a%20pair%20of%20modern%20running%20shoes%20with%20a%20sleek,%20aerodynamic%20design.%20The%20shoes%20feature%20a%20breathable%20mesh%20upper%20in%20a%20vibrant%20color%20.webp",
+      "description": "Lightweight running shoes with excellent grip and breathable material.",
+      "price": 75.50,
+      "brand": "Nike",
+      "category": "Footwear",
+      "ratings": 4.8
+    },
+    {
+      "name": "Bluetooth Speaker",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKb4sS8uJyu8JLX3a84DwdkDKjhFyECiUsTqpieCxq4vZhJC7qEDIdtfxeXU0TY_JhPO7AqGNE6ldUiBf8hrfWu8o8c009a_lGTI6e3vbWwo2qgBMdv-q_Ny0eges9NSnb1flilBVffX4b-fA9Icf4uVWQHtYxIe3nWMBthLfIA_tCEwnJgzcvniOHFp4/s1024/DALL%C2%B7E%202024-08-15%2019.26.19%20-%20A%20detailed%20image%20of%20a%20modern%20Bluetooth%20speaker%20with%20a%20sleek%20and%20compact%20design.%20The%20speaker%20has%20a%20cylindrical%20shape%20with%20a%20textured%20fabric%20covering,%20a.webp",
+      "description": "Portable Bluetooth speaker with deep bass and 12 hours of playtime.",
+      "price": 49.99,
+      "brand": "walton",
+      "category": "Electronics",
+      "ratings": 4.6
+    },
+    {
+      "name": "Water Bottle",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLacLDNGKnidhuTdmwNoLMUqe_p-KR9cVfaGtBxRc7Y2ej-71nNLQviGASiRHgkJINsgWDWtbG_jY7hZRY7SN5wHeX75fFzmkbtxn5u_2ocJHCjRnwJvYnRgHy2tgaAZcMCGJqhsvzmtC2834GM_p9PdP7Y3CN9oc4mhayURLrx-OTZUgvTdKxn0booVE/s1024/DALL%C2%B7E%202024-08-15%2019.26.13%20-%20A%20detailed%20image%20of%20a%20modern%20water%20bottle%20with%20a%20sleek%20and%20functional%20design.%20The%20bottle%20is%20made%20of%20stainless%20steel%20with%20a%20matte%20finish,%20featuring%20a%20s.webp",
+      "description": "Insulated water bottle that keeps drinks cold for 24 hours and hot for 12 hours.",
+      "price": 25.00,
+      "brand": "walton",
+      "category": "Home & Kitchen",
+      "ratings": 4.7
+    },
+    {
+      "name": "Yoga Mat",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwaT19dY5jaI_6mvgmLq_6nVMgMSBD2bGwu6vQkNHcYJo9DwuTEoGwDUZb_CgMF9oKriEIVj0pcaJWUGY8UGHW9TV3_F_iC73H8ivREyDiasv9yzOLy7zmDxhneL2YS1Z7cBtX8Jd2f4TIMXxWy2LiCxJht14W9IXFKpuOnAx0hyxIvGPDzU2sITTRXKg/s1024/DALL%C2%B7E%202024-08-15%2019.26.09%20-%20A%20high-quality%20image%20of%20a%20yoga%20mat%20with%20a%20simple%20and%20elegant%20design.%20The%20mat%20is%20rolled%20out%20on%20a%20clean%20floor,%20with%20a%20soft%20texture%20and%20a%20non-slip%20surfac.webp",
+      "description": "Eco-friendly yoga mat with non-slip surface and comfortable padding.",
+      "price": 30.00,
+      "category": "Fitness",
+      "brand": "",
+      "ratings": 4.3
+    },
+    {
+      "name": "Laptop Stand",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigZ84V1JNp4HawflbvGg2dStBmP4HOwVsiTk7GaCVXgNjejv55ahO7iw_mlXhOtmR_zXwSUHRD1rnE-ilLVnRtOY-3HrFb17V81gOG7DMgWuKbNiHSyEdYp__r_ylg_qS7nHq2NlMjIhMyQf_kh0DXiIbT3tBV9FMU3CfcGO2lG2A1XJb9LrSMS2P1aPw/s1024/DALL%C2%B7E%202024-08-15%2019.26.06%20-%20A%20detailed%20image%20of%20a%20modern%20laptop%20stand%20with%20a%20sleek,%20ergonomic%20design.%20The%20stand%20is%20made%20of%20aluminum%20with%20a%20matte%20silver%20finish,%20featuring%20a%20minima.webp",
+      "description": "Adjustable laptop stand with ergonomic design for better posture.",
+      "price": 40.00,
+      "brand": "Local",
+      "category": "Office Supplies",
+      "ratings": 4.4
+    },
+    {
+      "name": "Desk Lamp",
+      "image": "https://example.com/images/desk-lamp.https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrX4HzOq-1wNmdv5llVQbZGiCKcF1g3n1bSXl_dBe1hyCu7gHa_VevrpFyYCiaLdWw8pfBoIJnGJWEcboZx_Y5J5Ygw0qEklo1YjHThv8BMpid4o9dOguYBY69BkeBxlQcemTio8E2kKQiJk0Pzjvjzw2R4GJvVdyUZfstj-CPSGrCM-NS1ve-ii4IaWA/s1024/DALL%C2%B7E%202024-08-15%2019.26.04%20-%20A%20detailed%20image%20of%20a%20modern%20desk%20lamp%20with%20a%20minimalist%20and%20functional%20design.%20The%20lamp%20features%20a%20slim,%20metallic%20arm%20with%20an%20adjustable%20head%20that%20ca.webp",
+      "description": "LED desk lamp with adjustable brightness and touch control.",
+      "price": 35.99,
+      "brand": "Vision",
+      "category": "Home & Kitchen",
+      "ratings": 4.5
+    },
+    {
+      "name": "Smartwatch",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhszxqKKpdv4RW3L6ePPet8NjXgG7LdFeS9hj5ue8ntLcvSustnJ8W_NNPRN2WOCNfCj6maVI6h83ubiTCPcn-o2gNm0lwbIXumezh0-RBbTyAB5LpPY8Jx7QkCFapXoG89c-xdxpL-DVj_752KfHtC2AHL7VEiyUIqh9MgPI6eL0ThRkARRBDCKfpN_1c/s1024/DALL%C2%B7E%202024-08-15%2019.25.59%20-%20A%20high-resolution%20image%20of%20a%20modern%20smartwatch%20with%20a%20sleek,%20minimalist%20design.%20The%20smartwatch%20features%20a%20round,%20edge-to-edge%20display%20with%20customizabl.webp",
+      "description": "Feature-rich smartwatch with fitness tracking and notifications.",
+      "price": 150.00,
+      "brand": "Honor",
+      "category": "Electronics",
+      "ratings": 4.6
+    },
+    {
+      "name": "Gaming Mouse",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg_SjgIFFSb57YXFlg0FitOSLFwPuD_kjJlrOP4LprErVfku1uG6WMlrfu3v3ZThaFnLBIldHSngH4KSB2UPtcaQBIFnuLYdvzy6r3XazZ15YNQfCH4O53I7GU8t9rgfRmXkWZMhzn8pPjas81I-lv0vvbJpPLyN5KRxL3N9arlBN_qns9hEZSi02Lc9I/s1024/DALL%C2%B7E%202024-08-15%2019.22.04%20-%20A%20detailed%20image%20of%20a%20modern%20gaming%20mouse%20with%20an%20ergonomic%20design,%20RGB%20lighting,%20and%20customizable%20buttons.%20The%20mouse%20has%20a%20sleek,%20matte%20black%20finish%20.webp",
+      "description": "High-precision gaming mouse with customizable buttons and RGB lighting.",
+      "price": 60.00,
+      "brand": "Havit",
+      "category": "Electronics",
+      "ratings": 4.7
+    },
+    {
+      "name": "Smart LED TV",
+      "image": "https://example.com/path/to/smart-tv-image.webp",
+      "description": "42-inch 4K Ultra HD Smart LED TV with HDR and Alexa Compatibility.",
+      "price": 299.99,
+      "category": "Electronics",
+      "ratings": 4.7,
+      "brand": "VisionTech"
+  },
+  {
+    "name": "Wireless Gaming Mouse",
+    "image": "https://example.com/path/to/gaming-mouse-image.webp",
+    "description": "Ergonomic wireless gaming mouse with customizable RGB lighting and 16000 DPI.",
+    "price": 85.99,
+    "brand": "GamerGear",
+    "category": "Electronics",
+    "ratings": 4.9
+},
+{
+  "name": "Waterproof Hiking Backpack",
+  "image": "https://example.com/path/to/hiking-backpack-image.webp",
+  "description": "Durable, waterproof hiking backpack with 50L capacity and multiple compartments.",
+  "price": 76.00,
+  "category": "Outdoor",
+  "ratings": 4.6,
+  "brand": "TrailMaster"
+},
+{
+  "name": "Organic Green Tea",
+  "image": "https://example.com/path/to/green-tea-image.webp",
+  "description": "Premium organic green tea with rich antioxidants and calming properties.",
+  "price": 15.99,
+  "brand": "NatureBrew",
+  "category": "Groceries",
+  "ratings": 4.4
+ 
+},
+{
+  "name": "Yoga Mat",
+  "image": "https://example.com/path/to/yoga-mat-image.webp",
+  "description": "Eco-friendly, non-slip yoga mat with perfect cushioning for all types of yoga.",
+  "price": 34.99,
+  "brand": "ZenSpace",
+  "category": "Fitness",
+  "ratings": 4.7
+},
+{
+  "name": "Electric Toothbrush",
+  "image": "https://example.com/path/to/electric-toothbrush-image.webp",
+  "description": "Advanced electric toothbrush with multiple brushing modes and pressure sensor.",
+  "price": 129.99,
+  "brand": "CleanSmile",
+  "category": "Electronics",
+  "ratings": 4.8
+},
+{
+  "name": "Silk Pillowcase",
+  "image": "https://example.com/path/to/silk-pillowcase-image.webp",
+  "description": "Luxurious silk pillowcase to reduce skin friction and hair breakage during sleep.",
+  "price": 49.99,
+  "category": "Home Textiles",
+  "ratings": 4.5,
+  "brand": "SilkySmooth"
+},
+{
+  "name": "Action Camera",
+  "image": "https://example.com/path/to/action-camera-image.webp",
+  "description": "Compact action camera with 4K video recording, waterproof up to 30 meters.",
+  "price": 199.99,
+  "brand": "Canon",
+  "category": "Electronics",
+  "ratings": 4.6
+},
+{
+  "name": "Professional Hair Dryer",
+  "image": "https://example.com/path/to/hair-dryer-image.webp",
+  "description": "Professional-grade hair dryer with ionic technology for faster drying and less frizz.",
+  "price": 99.99,
+  "brand": "StylerPro",
+  "category": "Beauty Tools",
+  "ratings": 4.7
+},
+{
+  "name": "Portable Projector",
+  "image": "https://example.com/path/to/portable-projector-image.webp",
+  "description": "Lightweight portable projector with HD resolution and built-in speakers.",
+  "price": 255.00,
+  "brand": "Walton",
+  "category": "Electronics",
+  "ratings": 4.4
+  
+},
+{
+  "name": "Vegan Protein Powder",
+  "image": "https://example.com/path/to/protein-powder-image.webp",
+  "description": "Plant-based protein powder with complete amino acids profile, gluten-free and no added sugar.",
+  "price": 45.00,
+  "brand": "VegGainz",
+  "category": "Health Supplements",
+  "ratings": 4.3
+}
+
+]
+  
